@@ -1,4 +1,4 @@
-package ChangeMachine;
+package ChangeMachine.RichHarkins;
 
 import java.lang.Math;
 

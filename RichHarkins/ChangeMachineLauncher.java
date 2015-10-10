@@ -1,5 +1,5 @@
 
-package ChangeMachine;
+package ChangeMachine.RichHarkins;
 
 public class ChangeMachineLauncher {
 
